@@ -247,6 +247,6 @@ body{
   font-size: 36px;
 }
 .how-to__box g:hover foreignObject{
-  fill: #036CCA;
+  color: #036CCA;
   font-size: 22px;
 }
